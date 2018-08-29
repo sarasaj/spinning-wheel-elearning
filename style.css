@@ -1,0 +1,31 @@
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 22px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 28px;
+    cursor: pointer;
+    font-family: 'Changa', sans-serif;
+}
+#valueArea {
+    border: 1px solid grey;
+    width: 100%;
+    height: auto;
+    padding: 3%;
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    font-size: 1.8em;
+    margin: auto;
+}
+.bg {
+  background-color: #f2f2f2;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
