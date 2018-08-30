@@ -2,13 +2,15 @@
     background-color: black;
     border: none;
     color: white;
-    padding: 22px 32px;
+    padding: 12px 22px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 28px;
+    font-size: 24px;
     cursor: pointer;
     font-family: 'Changa', sans-serif;
+    margin-bottom: 3%;
+
 }
 #valueArea {
     border: 1px solid grey;
@@ -19,6 +21,7 @@
     text-align: center;
     font-size: 1.8em;
     margin: auto;
+    margin-bottom: 3%;
 }
 .bg {
   background-color: #f2f2f2;
